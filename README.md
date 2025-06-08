@@ -27,4 +27,6 @@ O repositório está organizado nas seguintes pastas:
 - `template/` – Modelos utilizados na produção do podcast  
 - `visuais/` – Elementos gráficos e identidade visual
 ## Template do podcast
-https://www.notion.so/PAS-Podcast-AI-Studio-20b75137b80a809cabc5ccb08d289d46
+[Notion](https://www.notion.so/PAS-Podcast-AI-Studio-20b75137b80a809cabc5ccb08d289d46)
+
+
